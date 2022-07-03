@@ -23,8 +23,6 @@ for i in range(N):
     else:
         dict[tmp] = 1
 
-print(dict)
-
 ans = []
 
 for i in B:
